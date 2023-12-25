@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "556741497016",
+    "firebase_url": "https://abdisamed-27e8a-default-rtdb.firebaseio.com",
+    "project_id": "abdisamed-27e8a",
+    "storage_bucket": "abdisamed-27e8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556741497016:android:64a46adf30aa1b0ee8244d",
+        "android_client_info": {
+          "package_name": "com.example.abdisamed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbJuwQ_lkixx7O0Oop4fR-9O9WbzCTprQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
